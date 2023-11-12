@@ -28,6 +28,11 @@ environment:
 vars:
   name:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: bloc name
+    # default: Dash
+    prompt: What is the name of the bloc?
+  isBla:
+    type: boolean
+    # description: is bla
+    default: false
+    prompt: Is bla?

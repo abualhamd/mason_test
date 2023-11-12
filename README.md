@@ -17,3 +17,8 @@ This is a test project for exploring mason
   - generates the template you've specified
 - mason make <brick_name> -c config.json 
   - to get your variables form a configuration file
+
+
+## Conditionals
+    {{#condition}}file.dart{{/condition}}
+  - use it to create files conditionally
