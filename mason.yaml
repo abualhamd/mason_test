@@ -3,4 +3,11 @@ bricks:
   test_brick:
     path: test_brick
   my_bloc_brick:
-    path: "bricks\\my_bloc_brick"
+    path: bricks/my_bloc_brick
+  looping_brick:
+    path: bricks/looping_brick
+  template_brick:
+    git:
+      url: 'https://github.com/abualhamd/bricks_repo'
+      path: 'bricks/template_brick'
+    

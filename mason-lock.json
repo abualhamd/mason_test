@@ -1,1 +1,1 @@
-{"bricks":{"hello":"0.1.0+1","test_brick":{"path":"G:/flutter_test_projects/mason_test/test_brick"},"my_bloc_brick":{"path":"bricks/my_bloc_brick"}}}
+{"bricks":{"hello":"0.1.0+1","looping_brick":{"path":"G:/flutter_test_projects/mason_test/bricks/looping_brick"},"my_bloc_brick":{"path":"G:/flutter_test_projects/mason_test/bricks/my_bloc_brick"},"template_brick":{"git":{"url":"https://github.com/abualhamd/bricks_repo","path":"bricks/template_brick","ref":"d6f27b7bc74c9c3161a9d742fe96775a4d9fac49"}},"test_brick":{"path":"G:/flutter_test_projects/mason_test/test_brick"}}}

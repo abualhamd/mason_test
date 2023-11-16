@@ -1,1 +1,1 @@
-class Events {}
+sealed class {{name.pascalCase()}}Event {}

@@ -1,3 +1,21 @@
 {
-    "name": "Random Name"
+    "projectName": "mason_test",
+    "dependencies":[
+        "flutter_bloc",
+        "flutter_hooks",
+        "flutter_riverpod",
+        "get_it",
+        "get_it_mixin",
+        "injectable",
+        "injectable_generator",
+        "json_annotation",
+        "json_serializable",
+        "logger",
+        "mockito",
+        "path",
+        "pedantic",
+        "retrofit",
+        "retrofit_generator",
+        "rxdart"
+    ]
 }

@@ -1,1 +1,1 @@
-class States {}
+sealed class {{name.pascalCase()}}State {}

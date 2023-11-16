@@ -1,0 +1,5 @@
+name: mason_test
+
+
+dependencies:
+  bloc: ^8.1.2

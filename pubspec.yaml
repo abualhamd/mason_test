@@ -1,14 +1,33 @@
 name: mason_test
 description: A new Flutter project.
 publish_to: 'none'
-version: 0.1.0
+version: 0.0.1
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
+
+  flutter_bloc:
+  flutter_hooks:
+  flutter_riverpod:
+  get_it:
+  get_it_mixin:
+  injectable:
+  injectable_generator:
+  json_annotation:
+  json_serializable:
+  logger:
+  mockito:
+  path:
+  pedantic:
+  retrofit:
+  retrofit_generator:
+  rxdart:
+  
 
 dev_dependencies:
   flutter_test:
